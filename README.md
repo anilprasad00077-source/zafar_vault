@@ -1,6 +1,3 @@
 Im currently working on many project Help Yourself with my work...
 
 
-if you find it Related you may need to make some changes i've uploaded my code into my Repos...
-
-
